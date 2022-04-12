@@ -1,0 +1,4 @@
+provider: github
+token: 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
+owner: piall
+repo: electron-auto-update-example
